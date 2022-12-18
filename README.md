@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mauricio949
-- 👀 I’m interested in python
+- 👀 I’m interested in python automação de suporte/chatbot
 - 🌱 I’m currently learning ...
 - 💞 Estou procurando colaborar em
 - 📫 How to reach me https://wa.link/ghqkon
